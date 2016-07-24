@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Guess The Number</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+      <h1>I'm thinking of a number between 1 and 100.</h1>
+
+      <h2><%= guess_prompt %></h2>
+
+      <p><%= guess_description %></p>
+
+      <form action="/play" method="post">
+        <label>
+          <input type="number" name="guessed_number" placeholder="Enter guess" autofocus />
+          <input type="submit" value="Guess" />
+        </label>
+      </form>
+  </body>
+</html>
