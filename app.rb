@@ -3,11 +3,6 @@ require "sinatra/reloader" if development?
 
 enable :sessions
 
-configure :development do
-  set :bind, '0.0.0.0'
-  set :port, 3000
-end
-
 helpers do
   def guessed_number
     session['guessed_number']
