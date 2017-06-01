@@ -10,12 +10,13 @@ Guess the Number is a basic ruby application built on top of Sinatra for the pur
 ## Getting set up
 
 ### On GitHub
-1. Sign up for a GitHub account.
+1. Sign up for a GitHub account [here](https://github.com). 
 2. Once that is done, come back to this page. On this page, fork this repo by clicking the Fork button in the top right corner (ask for help if you can't find it).
 3. Leave this window open as you will need to perform further set up actions to integrate smoothly with Cloud9.
 
 ### Setting up SSH between Github and Cloud9
-4. You should receive an email notifying you to sign up for an account on Cloud9. If you do not have one, please alert us at the workshop. 5. Go to https://c9.io/ to sign up for a Cloud9 account by clicking on the GitHub icon in the top right corner. You will need to authorize Cloud9 to use your Github account.
+4. You should receive an email notifying you to sign up for an account on Cloud9. If you do not have one, please alert us at the workshop. 
+5. Go to https://c9.io/ to sign up for a Cloud9 account by clicking on the GitHub icon in the top right corner. You will need to authorize Cloud9 to use your Github account.
 6. Once it's done, you will be at the Dashboard page.
 7. Go to `https://c9.io/account/ssh` to access your SSH Settings page.
 8. Open another window and go to `https://github.com/settings/keys` to access your SSH and GPG keys on Github.
