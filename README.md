@@ -5,7 +5,7 @@ Guess the Number is a basic ruby application built on top of Sinatra for the pur
 
 ## Resources used
 - [GitHub](https://github.com)
-- [Nitrous](https://www.nitrous.io/)
+- [Cloud9](https://c9.io/)
 
 ## Getting set up
 
