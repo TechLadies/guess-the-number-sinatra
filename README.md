@@ -1,5 +1,5 @@
 # Guess The Number
-Design the Guess The Number game for TechLadies pre-bootcamp workshop
+Design the Guess The Number game for TechLadies Pre-Bootcamp Workshop
 
 Guess the Number is a basic ruby application built on top of Sinatra for the purposes of TechLadies pre-bootcamp workshop, which covers the basics of the web, HTML and CSS. We will also cover some basic Git concepts. Given that everyone may be using different machines with different operating systems, we will be using Cloud9 as our development environment.
 
@@ -15,7 +15,7 @@ Guess the Number is a basic ruby application built on top of Sinatra for the pur
 3. Leave this window open as you will need to perform further set up actions to integrate smoothly with Cloud9.
 
 ### Setting up SSH between Github and Cloud9
-4. You should receive an email notifying you to sign up for an account on Cloud9. If you do not have one, please alert us at the workshop. 
+4. If you have registered to attend the workshop, you should receive an email notifying you to sign up for an account on Cloud9. If you did not receive the invite, please alert us at the workshop. If you _did not_ register for the workshop, you may create an account on Cloud9 too. (The difference is that you'll need a credit card if you're creating an account yourself.)
 5. Go to https://c9.io/ to sign up for a Cloud9 account by clicking on the GitHub icon in the top right corner. You will need to authorize Cloud9 to use your Github account.
 6. Once it's done, you will be at the Dashboard page.
 7. Go to `https://c9.io/account/ssh` to access your SSH Settings page.
