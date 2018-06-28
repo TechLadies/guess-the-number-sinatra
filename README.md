@@ -21,7 +21,7 @@ Guess the Number is a basic ruby application built on top of Sinatra for the pur
 1. Sign up for a Codeanywhere account by clicking on the *Sign up* in the top right corner.
 2. Fill in an email address and password, resolve the CAPTCHA checkbox and click on *Register*.
 3. You will see a welcome message informing you your account has been created successfully.
-4. Check the email with which you used to sign up for GitHub. You should receive an email from *Codeanywhere Team* that asks you to verify your account. Please do so (check your spam folder if you cannot find this email).
+4. Check the email with which you used to sign up for Codeanywhere. You should receive an email from *Codeanywhere Team* that asks you to verify your account. Please do so (check your spam folder if you cannot find this email).
 5. After clicking the verify link in the email, it should lead you to a page that says you have successfully verified your account. Click the link to take you to the editor at the bottom of the message.
 6. You will see a *Connection Wizard*.
 7. Select the *GitHub* (second option on the sidebar), click on *Connect your GitHub Account* in the middle of the window.
