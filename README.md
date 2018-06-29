@@ -10,15 +10,17 @@ Guess the Number is a basic ruby application built on top of Sinatra for the pur
 
 ## Getting set up
 
+You are encouraged to keep this page open, for easy reference, and also to make it easier to copy and paste certain commands, where necessary.
+
 ### On GitHub
 
-1. Sign up for a GitHub account.
+1. Sign up for a [GitHub](https://github.com) account.
 2. Go to the [Guess The Number project repository](https://github.com/TechLadies/guess-the-number-sinatra) and fork it by clicking the Fork button in the top right corner (ask for help if you can't find it).
-3. Leave this window open as you will need to perform further set up actions to integrate smoothly with Codeanywhere.
+3. Leave this window open as you will need to perform further set up actions to integrate smoothly with [CodeAnywhere](https://codeanywhere.com/).
 
 ### On Codeanywhere
 
-1. Sign up for a Codeanywhere account by clicking on the *Sign up* in the top right corner.
+1. Sign up for a [CodeAnywhere](https://codeanywhere.com/) account by clicking on the *Sign up* in the top right corner.
 2. Fill in an email address and password, resolve the CAPTCHA checkbox and click on *Register*.
 3. You will see a welcome message informing you your account has been created successfully.
 4. Check the email with which you used to sign up for Codeanywhere. You should receive an email from *Codeanywhere Team* that asks you to verify your account. Please do so (check your spam folder if you cannot find this email).
@@ -34,9 +36,9 @@ Guess the Number is a basic ruby application built on top of Sinatra for the pur
 ### On previewing your application
 
 1. On the left sidebar, right-click *guess-the-number-sinatra* and select the second option: *SSH Terminal*.
-2. Run `bundle install` to install the required ruby dependencies.
+2. Run `bundle install` to install the required ruby dependencies. To do so, please type `bundle install` in the terminal and press enter.
     ![](https://www.chenhuijing.com/filerepo/tl-pen-terminal.jpg)
-3. Then run `ruby app.rb -p 3000 -o 0.0.0.0`
+3. Then run `ruby app.rb -p 3000 -o 0.0.0.0`. To do so, please type `ruby app.rb -p 3000 -o 0.0.0.0` in the console and press enter.
 4. You should see something like this in the terminal
 ```
 [2018-06-26 22:32:35] INFO  WEBrick 1.3.1
@@ -51,12 +53,12 @@ Guess the Number is a basic ruby application built on top of Sinatra for the pur
 
 ### On Heroku
 
-1. Sign up for a Heroku account by clicking Sign Up in the top right corner.
+1. Sign up for a [Heroku](https://www.heroku.com) account by clicking Sign Up in the top right corner.
 2. After verifying your email and setting your password, proceed to the dashboard.
-3. Click on the New button on the top right, click Create New App button, leave the defaults and click Create App.
+3. Click on the New button on the top right, click *Create New App* button, leave the defaults and click *Create App*.
     ![](https://www.chenhuijing.com/filerepo/tl-ws2-heroku.png)
-4. For Deployment Method, select the Connect to GitHub option.
-5. Click the Connect to Github button and authorize Heroku to have access to your GitHub account information.
+4. For Deployment Method, select the *Connect to GitHub* option.
+5. Click the *Connect to Github* button and authorise Heroku to have access to your GitHub account information.
 6. Search for the guess-the-number-sinatra repository and click the Connect button.
-7. If you choose to Enable Automatic Deploy, then every time you commit a change to your repository, Heroku will deploy those changes.
+7. If you choose to *Enable Automatic Deploy*, then every time you commit a change to your repository, Heroku will deploy those changes.
 8. You can also choose to manually deploy your app.
